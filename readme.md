@@ -1,6 +1,6 @@
 # King James Compiler Collection
 
 
-Verily, I say unto you,
+<sup>0</sup>Verily, I say unto you,
 
-Sanctify thine C/C++ projects with some of the L<sub><sup>ORD</sup></sub>'s most sacred compilers <sub><sup>(wrappers, actually)</sup></sub>!
+<sup>1</sup>Sanctify thine C/C++ projects with some of the L<sub><sup>ORD</sup></sub>'s most sacred compilers <sub><sup><sup>2</sup>(wrappers, actually)</sup></sub>!
