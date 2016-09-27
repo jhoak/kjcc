@@ -1,5 +1,5 @@
 # King James Compiler Collection
-![code-consecration](https://img.shields.io/badge/consecration-1000%25-dddd55.svg)
+![code-consecration](https://img.shields.io/badge/consecration-1000%25-eeee44.svg?style=plastic)
 
 &nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;Verily, I say unto you,
 
